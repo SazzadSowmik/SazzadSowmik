@@ -12,3 +12,5 @@ Skills: PHP / REACT / VUE / C++ / PYTHON
 
 ![Profile views](https://gpvc.arturio.dev/dsfsf) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsfsf)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sazzadul Islam
 #### A passionate Software Engineer and Former Competitive Programmer.
-![A passionate Software Engineer and Former Competitive Programmer.](https://media.licdn.com/dms/image/C5616AQH8lB9YSrTz1g/profile-displaybackgroundimage-shrink_350_1400/0/1637799896292?e=1687996800&v=beta&t=nfaaxzs7f6oOOT8iX5RqreN3aZtmqwSulyy6-osD_Sk)
+A passionate Software Engineer and Former Competitive Programmer.
 
 I am a competitive programmer, 2 times Champion on BRACU Intra University Programming Contest. I participated international and national contests including the ICPC and NCPC. I have a huge interest in Software Engineering, Artificial Intelligence and Game Design. My core skills are on C++, Algorithms and Data Structure, Python. I am also worked as a professional graphics designer.
 

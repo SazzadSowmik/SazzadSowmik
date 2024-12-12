@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Sazzadul Islam
 #### A passionate Software Engineer and Former Competitive Programmer.
-A passionate Software Engineer and Former Competitive Programmer.
 
 I am a former competitive programmer and two-time champion of the BRACU Intra University Programming Contest. I have participated in both national and international competitions, including the ICPC and NCPC, where I honed my problem-solving skills and gained invaluable experience collaborating with some of the brightest minds in the field.
 

@@ -1,12 +1,13 @@
 ### Hi there 👋, I am Sazzadul Islam
-#### A passionate Software Engineer and Former Competitive Programmer.
 
-I am a former competitive programmer and two-time champion of the BRACU Intra University Programming Contest. I have participated in both national and international competitions, including the ICPC and NCPC, where I honed my problem-solving skills and gained invaluable experience collaborating with some of the brightest minds in the field.
+**Graduate Instructional Assistant & Researcher @ USF | Hardware Architecture & LLM/Multi-Agent Systems**
 
-With a profound interest in Software Engineering, Artificial Intelligence, and Game Design, I strive to bridge creativity and technology to solve real-world problems. Drawing from my background as a painter and professional graphics designer, I approach software development with a creative mindset, blending imagination and analytical skills to build innovative solutions.
+I am a researcher and Graduate Instructional Assistant at the University of South Florida focusing on hardware architecture, LLM/multi-agent frameworks, and automated RTL generation (Verilog/SystemVerilog) using Knowledge Graphs and LLMs.
 
-My core skills lie in JavaScript, C++, Algorithms, Data Structures, Shopify and Python, complemented by hands-on experience working with cutting-edge AI applications and production-level software development.
+As a former competitive programmer, two-time champion of the BRACU Intra University Programming Contest, and participant in national and international competitions (ICPC, NCPC), I approach complex engineering problems with algorithmic rigor. Drawing from my background as a former Senior Software Engineer and creative background as a graphics designer, I strive to bridge intelligent hardware design, software architecture, and creative problem-solving.
 
-Skills: PHP / REACT / VUE / C++ / PYTHON
+**Core Focus & Skills:**
+* **Research & Hardware Design:** Computer Architecture, Multi-Agent Systems, Knowledge Graphs, Verilog, SystemVerilog
+* **Software Engineering:** C++, Python, JavaScript, Algorithms & Data Structures
 
-Visit my Portfolio : https://gilded-mooncake-1a4a05.netlify.app/
+Visit my Portfolio : [Click here](https://sites.google.com/view/sazzadul-islam-sowmik/home?authuser=0)
